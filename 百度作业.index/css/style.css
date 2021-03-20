@@ -1,0 +1,49 @@
+span {
+    padding:25px
+}
+.right{
+    color:blue;
+    float: right;
+}
+.main {
+    text-align: center;
+}
+.logo {
+    width: 450px;
+    height:250px;
+vertical-align: 10px;
+}
+.input {
+    width: 300px;
+    height: 28px;
+    border:0;
+    padding:0;
+    margin:0;
+    outline: 0ch;
+}
+
+.border1 {
+    padding:6px;
+    margin:16px;
+    width: 300px;
+    height: 28px;
+    border:2px solid blue;
+    border-bottom-left-radius :10px;
+    border-top-left-radius:10px;
+    text-align: center;
+}
+ /* :hover{
+    color: red
+}
+ */
+
+.photo {
+    top: 10px;
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left:10px;
+}
+.on{
+    text-align: center;
+}
